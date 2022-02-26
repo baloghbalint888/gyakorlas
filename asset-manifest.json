@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/gyakorlas/static/css/main.fd9a0bc1.css",
+    "main.js": "/gyakorlas/static/js/main.a3e79d90.js",
+    "static/media/patrick.png": "/gyakorlas/static/media/patrick.485504ff74b8823fcbfb.png",
+    "index.html": "/gyakorlas/index.html",
+    "main.fd9a0bc1.css.map": "/gyakorlas/static/css/main.fd9a0bc1.css.map",
+    "main.a3e79d90.js.map": "/gyakorlas/static/js/main.a3e79d90.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd9a0bc1.css",
+    "static/js/main.a3e79d90.js"
+  ]
+}
